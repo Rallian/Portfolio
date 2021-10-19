@@ -1,0 +1,57 @@
+/* want to use good color schemes to stand out but not strain the eyes.*/
+body {
+  background-color: lightblue;
+}
+h1 {
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: 60px;
+  color: lightblue;
+  background-color: rgba(255, 68, 0, 0.664) ;
+  text-align: center;
+  margin:0;
+  padding: 5px;
+}
+h2 {
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: 25px;
+  color: lightblue;
+  background-color: rgba(255, 68, 0, 0.664);
+  text-align: center;
+  margin-top:0;
+  padding: 5px;
+  
+}
+h3 {
+ font-family:Georgia, 'Times New Roman', Times, serif;
+ font-size: 35px;
+ text-align: center;
+ color: rgba(255, 68, 0, 0.664); 
+ height: 5px;
+}
+p {
+  font-family: sans-serif;
+  color: rgba(255, 68, 0, 0.664);
+  font-size: 18px;
+  text-align: center;
+  font-weight: 200;
+
+}
+li {
+  font-family: sans-serif;
+  color: rgba(255, 68, 0, 0.664);
+  font-size: 18px;
+  font-weight: 200;
+}
+footer {
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-size: 15px;
+  color: lightblue;
+  background-color: rgba(255, 68, 0, 0.664) ;
+  text-align: center;
+  margin:0;
+}
+/* links commonly show blue when used, so I stuck with that. color when not used is same as normal text color. Unsure of that idea.*/
+a:link { color:rgba(255, 68, 0, 0.664) ;}
+a:visited {color: blue;}
+a:hover { color: yellow;}
+a:active { color:yellow;}
