@@ -28,13 +28,14 @@ h3 {
  color: rgba(255, 68, 0, 0.664); 
  height: 5px;
 }
+/* don't like how the text in the p is so far accross the page*/
 p {
   font-family: sans-serif;
   color: rgba(255, 68, 0, 0.664);
   font-size: 18px;
   text-align: center;
   font-weight: 200;
-  width: 800px
+  
 
 }
 li {
