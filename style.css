@@ -41,7 +41,8 @@ li {
   color: rgba(255, 68, 0, 0.664);
   font-size: 18px;
   font-weight: 200;
-  text-align: center;
+   text-align: center;
+  list-style-position:inside;
 }
 footer {
   font-family:Georgia, 'Times New Roman', Times, serif;
